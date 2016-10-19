@@ -1,0 +1,14 @@
+Package: lidRExtra
+Type: Package
+Title: Extra functions for lidR package
+Version: 0.0.1
+Date: 2016-10-18
+Authors@R: c(person("Jean-Romain", "Roussel", email = "jean-romain.roussel.1@ulaval.ca", role = c("aut", "cre")))
+Description: Extra functions for lidR package.
+URL: https://github.com/Jean-Romain/lidRExtra
+BugReports: https://github.com/Jean-Romain/lidRExtra/issues
+License: GPL-3 | file LICENCE
+Depends: R (>= 3.2.0),lidR
+LazyData: trues
+RoxygenNote: 5.0.1
+LinkingTo: Rcpp
